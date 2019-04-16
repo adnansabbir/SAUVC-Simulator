@@ -24,11 +24,13 @@ It's an underwater simulator based on the final round of SAUVC. There is a gate 
 ### How to Contribute ###
 Everything is in this folder. If you know game development in Unity you can easily tweak things.
 
-__Note*__ - I might have changed some movement settings. So, running the file from Unity might not be tha same as the exe file. Here is the Zip File to download the version that is exactly as the .exe file - [Google Drive Link](https://drive.google.com/file/d/1qxT1IPpUchh3P8NON_IHZIA1a_ToGLKu/view?usp=sharing) 
+__Note*__ - I might have changed some movement settings. So, running the file from Unity might not be same as the exe file. Here is the Zip File to download the version that is exactly as the .exe file - [Google Drive Link](https://drive.google.com/file/d/1qxT1IPpUchh3P8NON_IHZIA1a_ToGLKu/view?usp=sharing) 
 
 ### Why am I sharing this? ###
-Leading a team from Bangladesh to an underwater robotics competition was really tough because of not having access to underwater components and the facilities. As a first timer we faced a lot of challenges. We were building an AUV but we could not get a swimming pool to test it. I don't think, there can be something more horrible than this. So, made this simulator to try the computer vision part and a small tank to test out AUV's balance and depth hold.  
-So, I am sharing this so that teams who do not have access to swimming pools or it's not even possible to try computer vision in swimming pool all the time can use this simulator. 
+Leading a team to something totally new in our country was really a challenge because of not having access to underwater components and the facilities. As a first timer we faced a lot of challenges. We were building an AUV but we could not get a swimming pool to test it. I don't think, there can be something more horrible than this. So, I made this simulator to try the computer vision part and a small tank to test out AUV's balance and depth hold.  
+I though it was only our problem. But then after attending SAUVC2018, I found it as a quiet common problem for a lot of teams.
+I am sharing this so that teams who do not have access to swimming pools or it's not even possible to try computer vision in swimming pool all the time can use this simulator. 
+
 
 ### My expectations ###
 I believe more people will contribute to this project and make this a perfect simulator for SAUVC.
