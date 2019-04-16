@@ -1,7 +1,7 @@
 # UNDERWATER AUV SIMULATOR FOR SAUVC #
 Link to [Singapore AUV Challenge(SAUVC)](https://sauvc.org/)
 
-Link to .exe only - > [ROV Simulator](https://drive.google.com/open?id=11yioKS-WiIy2ZtrqjVkvi6QCSIAdo42N) (You need to install unity)
+Link to .exe only - > [ROV Simulator](https://drive.google.com/file/d/1H7YFPUf5FVNPyDoZJRFJ4RAr0OAfN937/view?usp=sharing) (You need to install unity)
 
 ## Introduction ##
 In 2018 my team BRACU Duburi attended SAUVC2018. That was the first time any team from Bangladesh attended any international underwater competition. While it was a good news for my university, it was not that good for us. Because nobody have ever worked on AUV or ROV before. We could not get any swimming pools that allowed us to test our AUV. Everyone was afraid that AUVs might spill oil. 
